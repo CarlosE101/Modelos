@@ -1,0 +1,34 @@
+newmtl banocomplete:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fdb001e.jpg
+Ni 1.00
+newmtl banocomplete:wall
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wall.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 256.00
+newmtl banocomplete:wall2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wall.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 256.00
+newmtl banocomplete:wall4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wall.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 256.00
