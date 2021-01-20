@@ -1,0 +1,36 @@
+newmtl master_roshi_buff:_MTF_0_1_16_16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_base_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:_OUTLINE_0_1_16_16_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_detail_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:__RodLHand_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_base_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:__RodLHand_3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_detail_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
