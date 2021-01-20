@@ -1,0 +1,27 @@
+newmtl molino_viento:wire_141007058
+illum 4
+Kd 0.55 0.03 0.23
+Ka 0.55 0.03 0.23
+Tf 1.00 1.00 1.00
+map_Kd tex4bump.jpeg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl molino_viento:wire_148177027
+illum 4
+Kd 0.58 0.69 0.11
+Ka 0.58 0.69 0.11
+Tf 1.00 1.00 1.00
+map_Kd tex4bump.jpeg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl molino_viento:wire_228184153
+illum 4
+Kd 0.89 0.72 0.60
+Ka 0.89 0.72 0.60
+Tf 1.00 1.00 1.00
+map_Kd tex4bump.jpeg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
