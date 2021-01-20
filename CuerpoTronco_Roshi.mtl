@@ -1,0 +1,57 @@
+newmtl master_roshi_buff:_MTF_0_1_16_16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_base_col.png
+map_Ka roshi_base_col.png
+map_Kd MTN_base.png
+map_Kd dbfz___master_roshi_buff__render_3d__4k_by_higuys920_de5d77u.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:_MTF_part_004_1_0_0_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_decal1_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:_OUTLINE_0_1_16_16_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_detail_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:__Glasses_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_base_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:__Glasses_3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_base_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00
+newmtl master_roshi_buff:__Glasses_5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd roshi_detail_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 324.00

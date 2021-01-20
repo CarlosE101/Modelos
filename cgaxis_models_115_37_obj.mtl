@@ -1,0 +1,37 @@
+newmtl cgaxis_models_115_37_obj:cgaxis_models_115_37_05
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_115_37_03.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl cgaxis_models_115_37_obj:cgaxis_models_115_37_07
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_115_37_01.jpg
+Ni 1.01
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl cgaxis_models_115_37_obj:cgaxis_models_115_37_09
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_115_37_01.jpg
+Ni 1.01
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl cgaxis_models_115_37_obj:cgaxis_models_115_37_011
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+map_Kd cgaxis_models_115_37_01.jpg
+
